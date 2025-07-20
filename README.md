@@ -28,4 +28,4 @@ This is a simple **Python command-line game** based on the classic "**Snake-Wate
 ## 🐍 Live Demo
 
 Play the Snake Water Gun game here:  
-👉 [Click to Play on Replit](https://replit.com/@yourusername/SnakeWaterGun)
+👉 [Click to Play on Replit](https://replit.com/Kritika-Maheshwari08/SnakeWaterGun)
