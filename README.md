@@ -24,3 +24,8 @@ This is a simple **Python command-line game** based on the classic "**Snake-Wate
 1. Make sure you have **Python installed** on your system.
 
 2. Download or clone this repository:
+
+## 🐍 Live Demo
+
+Play the Snake Water Gun game here:  
+👉 [Click to Play on Replit](https://replit.com/@yourusername/SnakeWaterGun)
